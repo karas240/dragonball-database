@@ -1,1 +1,1 @@
-alert("hoi papa ik wil 50 euro")
+alert("stem op mij")
